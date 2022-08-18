@@ -1,0 +1,19 @@
+.first{
+    position: relative;
+    width:100%;
+    height: 100vh;
+}
+.first_image{
+        width:100%;
+        height:100%;
+        object-fit:cover;
+        position: absolute;
+}
+.first_title{
+    position: absolute;
+    bottom:15%;
+    right:10%;
+    color:cornsilk;
+    font-size:4rem;
+    padding:15px;
+}
